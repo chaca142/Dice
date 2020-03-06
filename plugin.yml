@@ -2,13 +2,8 @@
 name: dice
 main: dice\Main
 author: chaca142
-version: 1.0.0
-api:
-- 3.0.0
-- 3.0.0-ALPHA11
-- 3.2.3
-- 3.3.1
-- 4.0.0
+version: 2.0.0
+api: 3.11.6
 load: POSTWORLD
 description: Dice command!
 commands:
